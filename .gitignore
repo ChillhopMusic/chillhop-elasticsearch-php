@@ -1,0 +1,4 @@
+src/**/test.php
+composer.phar
+vendor/
+test/
