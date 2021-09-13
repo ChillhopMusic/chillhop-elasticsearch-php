@@ -149,7 +149,7 @@ abstract class ChillhopElasticDatabase {
 
         $result = $this->_client->index($params);
 
-        print_r($result);
+        //print_r($result);
     }
 
     /**
